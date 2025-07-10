@@ -101,4 +101,6 @@ The project uses a **hybrid approach** combining **ARIMA** for statistical analy
 - **CO(GT) MAPE**: **0.34643**
 - **Temperature MAPE**: **0.16841**
 
-### **Graph of Predicted vs Actual CO and Temperature**
+### **Graph of Predicted vs Actual Temperature**
+<img width="785" height="413" alt="temp" src="https://github.com/user-attachments/assets/8b9cee95-6bf2-4c71-b1c1-d9fb1fde63fa" />
+
